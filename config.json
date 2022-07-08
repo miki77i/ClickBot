@@ -1,0 +1,8 @@
+{
+    "api": "api-key",
+    "start_message": "Приветственное сообщение",
+    "click_message": "Сообщение при клике",
+    "zarabotat_message": "Сообщение при нажатии на кнопку заработать",
+    "balance_message": "Мой баланс: ",
+    "vivod_message": "Сори :)"
+}
